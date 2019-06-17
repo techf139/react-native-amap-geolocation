@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.source_files = '**/*.{h,m}'
 
   s.dependency 'React'
-  s.dependency 'AMapLocation', "~> 2.6.0"
+  s.dependency 'AMapLocationDynamic'
 end
